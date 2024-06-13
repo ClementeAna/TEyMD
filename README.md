@@ -8,11 +8,11 @@ Algunas de las actividades que se esperan de este curso son las siguientes
 
 3. Diseñar esquemas de bases de datos, creando diagramas entidad-relación (ER) y normalizando tablas para reducir redundancia y mejorar la integridad de los datos.
 
-4.Practicar consultas avanzadas como joins, subconsultas, agregaciones y funciones de ventana para extraer información relevante de bases de datos complejas.
+4. Practicar consultas avanzadas como joins, subconsultas, agregaciones y funciones de ventana para extraer información relevante de bases de datos complejas.
 
-5.Conectar bases de datos relacionales a herramientas de análisis de datos como Python (usando bibliotecas como SQLAlchemy) y R para extraer y analizar datos.
+5. Conectar bases de datos relacionales a herramientas de análisis de datos como Python (usando bibliotecas como SQLAlchemy) y R para extraer y analizar datos.
 
-6.Realizar un análisis descriptivo de un conjunto de datos, calculando medidas de tendencia central y dispersión, y visualizando los resultados con gráficos.
+6. Realizar un análisis descriptivo de un conjunto de datos, calculando medidas de tendencia central y dispersión, y visualizando los resultados con gráficos.
 
 7. Practicar la limpieza de datos: manejar valores faltantes, detectar y corregir outliers, y transformar datos categóricos en numéricos.
 
