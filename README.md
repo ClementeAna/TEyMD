@@ -26,7 +26,7 @@ Algunas de las actividades que se esperan de este curso son las siguientes
 
 12. Aplicar técnicas de validación cruzada y utilizar métricas como precisión, recall y AUC-ROC para evaluar modelos de clasificación y regresión.
 
-13.Desarrollar proyectos en grupos donde los estudiantes apliquen todo el proceso de minería de datos a un conjunto de datos real, desde la limpieza hasta la interpretación de resultados.
+13. Desarrollar proyectos en grupos donde los estudiantes apliquen todo el proceso de minería de datos a un conjunto de datos real, desde la limpieza hasta la interpretación de resultados.
 
 14. Crear visualizaciones interactivas utilizando herramientas como Tableau, Matplotlib o Seaborn para comunicar los hallazgos de los análisis de datos.
 
